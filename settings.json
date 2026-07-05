@@ -1,7 +1,7 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "kishanopapkbot",
+    "username": "detoxshadowsmp",
     "password": "",
     "type": "offline"
   },
@@ -31,9 +31,9 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "kon kon online hai",
+        "welcome into detoxshadow smp ",
         "Subscribe to KS2P vlogz!",
-        "free server hai bro"
+        "subscribe to ks2p vlogz "
       ]
     },
     "chat-log": true,
