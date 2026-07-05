@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "KISHANPR.aternos.me",
-    "port": 44606,
+    "ip": "detoxshadow.aternos.me",
+    "port": 36291,
     "version": "1.20.1",
     "try-creative": false
   },
